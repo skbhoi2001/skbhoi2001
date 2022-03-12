@@ -45,12 +45,6 @@ Portfolio - https://soumyakbhoi.netlify.app/
 <br/>
 
 
-<p align="center">
-    <a href="https://github.com/satwikn07/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Satwik Nayak's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=satwikn07&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
-</p>
-
  
  
 
