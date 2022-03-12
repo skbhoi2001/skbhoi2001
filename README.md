@@ -21,7 +21,7 @@
 
 💬 **Ask me about :** Data Structures and Algorithms, JavaScript, React and MongoDb
 
-🥅 **2021 Goals :** Learning new things and contribute more
+🥅 ** Goals :** Learning new things and contribute more
 
 How to reach me soumyak.bhoi.2001@gmail.com
 Portfolio - https://soumyakbhoi.netlify.app/
