@@ -43,7 +43,7 @@ Portfolio - https://soumyakbhoi.netlify.app/
       <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>  
 </p>
 <br/>
-
+<a href="https://github.com/skbhoi2001/github-readme-activity-graph"><img alt="Soumyak Kumar Bhoi Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=skbhoi2001&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
  
  
