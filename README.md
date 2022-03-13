@@ -43,6 +43,21 @@ Portfolio - https://soumyakbhoi.netlify.app/
       <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>  
 </p>
 <br/>
+<p align="center">
+    <a href="https://github.com/skbhoi2001/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Soumyak Kumar Bhoi streak" src="https://github-readme-streak-stats.herokuapp.com/?user=skbhoi2001&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p>
+
+ 
+  <p align="center">
+    <a href="https://github.com/skbhoi20017/github-readme-stats"><img alt="Soumyak Kumar Bhoi Github Stats" src="https://github-readme-stats.vercel.app/api?username=skbhoi2001&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    </p>
+
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skbhoi2001&theme=react&hide_border=true&bg_color=0D1117" height="260px" width="33.25%"/>
+    </p>
+<br/>
 <a href="https://github.com/skbhoi2001/github-readme-activity-graph"><img alt="Soumyak Kumar Bhoi Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=skbhoi2001&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
  
