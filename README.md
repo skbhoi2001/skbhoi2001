@@ -24,6 +24,8 @@
 🥅 ** Goals :** Learning new things and contribute more
 
 <a href="https://www.linkedin.com/in/soumyak-kumar-bhoi-3b73a4184/" target="_blank"> <img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Logo.svg.original.svg"/> </a>
+<a href="https://soumyakbhoi.netlify.app/" target="_blank"> <img src="https://www.vhv.rs/dpng/d/247-2473909_portfolio-logo-png-portfolio-text-png-transparent-png.png"/> </a>
+<a href="soumyak.bhoi.2001@gmail.com" target="_blank"> <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gmail.max-1100x1100.png"/> </a>
 How to reach me soumyak.bhoi.2001@gmail.com
 Portfolio - https://soumyakbhoi.netlify.app/
 
