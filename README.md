@@ -25,8 +25,8 @@
 
 <h1><a target="_blank" href="https://www.linkedin.com/in/soumyak-kumar-bhoi-3b73a4184/"> Linkedin</a></h1>
 <h1><a target="_blank" href="https://soumyakbhoi.netlify.app//"> Portfolio</a></h1>
-<h3><a mailto:"soumyak.bhoi.2001@gmail.com" href="https://soumyakbhoi.netlify.app//">soumyak.bhoi.2001@gmail.com</a></h1>
-//How to reach me soumyak.bhoi.2001@gmail.com
+<h3>Mail Me :: <a mailto:"soumyak.bhoi.2001@gmail.com">soumyak.bhoi.2001@gmail.com</a></h1>
+
 
 
 
