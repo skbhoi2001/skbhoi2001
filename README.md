@@ -1,8 +1,8 @@
-<div>Thanks for visiting my profile</div>![Stalker Count](https://profile-counter.glitch.me/skbhoi2001/count.svg)
-<a href="#"><img width="100%" height="auto" src="./Images/display.gif" height="175px"/></a>
-
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Soumyak Kumar Bhoi</h1>
+<h1     >Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Soumyak Kumar Bhoi</h1>
 <h3 align="center">I'm a passionate Full Stack Developer from India. Dedicated and accountable Full Stack Web Developer. Skilled in MERN stack.</h3>
+<a href="#"><img width="100%" height="auto" src="./Images/display.gif" height="175px"/></a>
+![Stalker Count](https://profile-counter.glitch.me/skbhoi2001/count.svg)
+
 
 <p align= "center">
 
