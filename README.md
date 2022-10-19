@@ -1,4 +1,4 @@
-<div align="center">!https://profile-counter.glitch.me/skbhoi2001/count.svg</div>
+<div>Thanks for visiting my profile</div>![Stalker Count](https://profile-counter.glitch.me/skbhoi2001/count.svg)
 <a href="#"><img width="100%" height="auto" src="./Images/display.gif" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Soumyak Kumar Bhoi</h1>
@@ -45,30 +45,6 @@
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>
       <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>  
 </p>
-<br/>
-<p align="center">
-    <a href="https://github.com/skbhoi2001/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Soumyak Kumar Bhoi streak" src="https://github-readme-streak-stats.herokuapp.com/?user=skbhoi2001&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
-</p>
-
- 
-  <p align="center">
-    <a href="https://github.com/skbhoi20017/github-readme-stats"><img alt="Soumyak Kumar Bhoi Github Stats" src="https://github-readme-stats.vercel.app/api?username=skbhoi2001&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-    </p>
-
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skbhoi2001&theme=react&hide_border=true&bg_color=0D1117" height="260px" width="33.25%"/>
-    </p>
-<br/>
-<a href="https://github.com/skbhoi2001/github-readme-activity-graph"><img alt="Soumyak Kumar Bhoi Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=skbhoi2001&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
- 
- 
-
-
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 
 
