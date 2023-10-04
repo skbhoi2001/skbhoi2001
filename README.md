@@ -25,7 +25,8 @@
 🥅 ** Goals :** Learning new things and contribute more
 
 <h1><a target="_blank" href="https://www.linkedin.com/in/soumyak-kumar-bhoi-3b73a4184/"> Linkedin</a></h1>
-<!-- <h1><a target="_blank" href="https://soumyakbhoi.netlify.app//"> Portfolio</a></h1> -->
+<h1><a target="_blank" href="https://soumyak.tech/"> Portfolio</a></h1>
+<h1><a target="_blank" href="https://drive.google.com/file/d/1lA4wQ14wKTwmajKIyNuBlk4_nZRQObWR/view?usp=sharing"> Resume</a></h1>
 <h3>Mail Me :: <a mailto:"soumyak.bhoi.2001@gmail.com">soumyak.bhoi.2001@gmail.com</a></h1>
 
 
